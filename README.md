@@ -74,8 +74,8 @@ Sample Request Payload:
 Sample Response:
 ```json
 {
-  "decision": "LATER",
-  "reason": "Deferred due to alert fatigue (hourly limit reached)"
+  "decision": "NEVER",
+  "reason": "Low priority"
 }
 ```
 
