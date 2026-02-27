@@ -88,9 +88,3 @@ Returns a dictionary containing total logs, decisions taken, duplicate suppressi
 `GET /health`
 
 Returns a server liveness probe `{"status": "ok"}`.
-
----
-
-# Video Presentation
-
-[Watch the Video Walk-through Here]() <!-- Add YouTube Unlisted Link Here -->
